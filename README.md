@@ -1,4 +1,4 @@
-# Diffie-hellman-key-exchange
+# Diffie-Hellman-key-exchange
 Implementation of the Diffie-Hellman key exchange in Ada.
 
 # Usage
