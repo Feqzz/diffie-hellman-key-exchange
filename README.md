@@ -4,7 +4,7 @@ Implementation of the Diffie-Hellman key exchange in Ada.
 # Usage
 `./diffie-hellman Alice-private-key Bob-private-key Generator Prime-Number`
 
-Example:
+# Example
 
 Input: 
 
